@@ -36,6 +36,12 @@
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/adobephotoshop.svg" height="32">
 </p>
 
+<details>
+  <summary>🏆 Langagues on Github</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChxGuillaume&layout=compact&theme=vue-dark)](https://github.com/ChxGuillaume)
+</details>
+
 <!--
 **ChxGuillaume/ChxGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
