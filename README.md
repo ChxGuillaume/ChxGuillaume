@@ -1,7 +1,5 @@
 # Heyy, I'm Chateauroux Guillaume
 
-<img src="https://simpleicons.org/icons/vue-dot-js.svg" color="green" height="24">
-
 <p align="left">
   <a href="https://guillaumechx.dev/">
     <img src="https://img.shields.io/badge/WebSite-yellow?style=flat&logo=curl&labelColor=yellow">
