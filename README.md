@@ -20,6 +20,22 @@
 - 🎓 Studying at [Ynov Lyon](https://www.ynov.com/campus/lyon/)
 - 💖 My Baby Forever [VueJS](https://vuejs.org/)
 
+## My Tech
+
+<p>
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/javascript.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/html5.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/css3.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/vue-dot-js.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/nuxt-dot-js.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/vuetify.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/webstorm.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/php.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/laravel.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/phpstorm.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/adobephotoshop.svg" height="32">
+</p>
+
 <!--
 **ChxGuillaume/ChxGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
