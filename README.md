@@ -17,7 +17,7 @@
 ## I'm a french tech student working and passionate by web developement !
 
 - 💻 Currently working at [LM Control](https://www.lmcontrol.com/fr/)
-- 🎓 Studying at [Ynov Lyon](https://www.ynov.com/campus/lyon/)
+- 🎓 Studied at [Ynov Lyon](https://www.ynov.com/campus/lyon/), [IUT Reims](https://iut-info.univ-reims.fr/)
 - 💖 My Baby Forever [VueJS](https://vuejs.org/)
 
 ## My Tech
