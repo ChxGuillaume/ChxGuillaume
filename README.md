@@ -26,11 +26,11 @@
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/typescript.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/nuxt-dot-js.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/vue-dot-js.svg" height="32">
+  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/nestjs.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/javascript.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/html5.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/css3.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/quasar.svg" height="32">
-  <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/nestjs.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/vuetify.svg" height="32">
   <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/webstorm.svg" height="32">
   <!-- <img src="https://github.com/ChxGuillaume/ChxGuillaume/blob/main/logos/php.svg" height="32"> -->
