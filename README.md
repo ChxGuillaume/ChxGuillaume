@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## I'm a french tech student working and passionate by web developement !
+## I'm a French tech dev working and passionate about web development!
 
 - 💻 Currently working at [LM Control](https://www.lmcontrol.com/fr/)
 - 🎓 Studied at [Ynov Lyon](https://www.ynov.com/campus/lyon/), [IUT Reims](https://iut-info.univ-reims.fr/)
