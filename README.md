@@ -42,7 +42,7 @@
 <details>
   <summary>🏆 Langagues on Github</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChxGuillaume&layout=compact&theme=vue-dark)](https://github.com/ChxGuillaume)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChxGuillaume&layout=compact&theme=github_dark)](https://github.com/ChxGuillaume)
 </details>
 
 <!--
